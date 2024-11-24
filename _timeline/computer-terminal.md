@@ -6,5 +6,6 @@ caption: Η ιστορία των computer terminal
 events:
   - datapoint3300.jpg
   - vt52.jpg
+  - ibm2471.jpg
   - ibm3151.jpg
 ---

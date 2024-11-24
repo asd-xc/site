@@ -6,4 +6,6 @@ caption: Διαφάνειες για το window manager
 slides:
   - i3window.png
   - config.png
+  - tiling-windows
+  - window-manager
 ---
